@@ -1,4 +1,4 @@
-# basicTickAVR
+# basicTick
 millis() alternative timer for AVR chips
 
 # basicTickESP
